@@ -42,7 +42,7 @@
     "@vitejs/plugin-react": "^4.3.4",
     "jsdom": "^26.0.0",
     "typescript": "^5.7.2",
-    "vite": "^6.2.7",
+    "vite": "^6.3.4",
     "web-vitals": "^4.2.4"
   }
 }
